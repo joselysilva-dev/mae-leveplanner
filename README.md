@@ -86,6 +86,13 @@ Entrada → Boas-vindas → Dashboard → Tarefas → Rotina → Autocuidado →
 ![Perfil](assets/wireframes/maeleve-wireframe-tela-perfil.png)
 
 ---
+## 📱 Telas do Aplicativo
+
+![Capa](./images/mae-leve-capa.png)
+![Dashboard](./images/mae-leve-dashboard.png)
+![Tarefas](./images/mae-leve-tarefas.png)
+![Rotina](./images/mae-leve-rotina.png)
+![Autocuidado](./images/mae-leve-autocuidado.png)
 
 ## 🎨 Decisões de UX/UI
 
