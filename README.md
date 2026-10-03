@@ -1,86 +1,113 @@
-<div align="center">
+# 🌷 Mãe Leve Planner
 
-# 🌸 Mãe Leve Planner
+### Organização da rotina materna com foco em simplicidade, autocuidado e experiência do usuário
 
-### Organização da rotina materna com leveza, clareza e autocuidado
+O **Mãe Leve Planner** é um projeto conceitual de produto digital criado para explorar como tecnologia e experiência do usuário podem contribuir para a organização da rotina materna.
 
-Aplicativo mobile conceitual desenvolvido para ajudar mães a organizarem  
-tarefas, rotina e momentos de autocuidado sem aumentar a sobrecarga.
+O projeto atualmente está na fase de **UX/UI e prototipação**, com definição do problema, organização da experiência, fluxo de navegação, wireframes e telas do produto.
 
-[![Protótipo](https://img.shields.io/badge/Ver_protótipo-D65DB1?style=for-the-badge&logo=figma&logoColor=white)](https://maeleveplanner.figma.site)
-[![Wireframes](https://img.shields.io/badge/Ver_wireframes-7C5CFC?style=for-the-badge&logo=figma&logoColor=white)](https://wireframemaeleveplanner.figma.site)
-
-</div>
+A proposta futura é evoluir o case progressivamente, aplicando conhecimentos de **Engenharia de Software** até chegar a uma aplicação funcional.
 
 ---
 
 ## 📌 Sobre o projeto
 
-O **Mãe Leve Planner** é um case de UX/UI criado para explorar os desafios enfrentados por mães que precisam conciliar tarefas domésticas, compromissos, cuidados com a família e necessidades pessoais.
+A rotina materna pode concentrar tarefas domésticas, compromissos, cuidados com os filhos, responsabilidades pessoais e momentos de autocuidado em um mesmo dia.
 
-A proposta é oferecer uma experiência acolhedora e visualmente leve para organizar o dia, acompanhar tarefas e reservar momentos de autocuidado.
+O Mãe Leve Planner foi pensado como uma experiência digital que centraliza parte dessa organização em um ambiente simples e visualmente leve.
 
-> **Status:** protótipo acadêmico desenvolvido como estudo de UX/UI.
+O projeto busca trabalhar dois aspectos em conjunto:
+
+**organização da rotina + cuidado pessoal.**
+
+Em vez de tratar autocuidado como uma área separada da vida cotidiana, a proposta é incorporá-lo à própria organização da rotina.
+
+### Status atual
+
+🟢 **Case de UX/UI e prototipação desenvolvido**
+
+Atualmente o projeto possui:
+
+- definição do problema;
+- definição do público-alvo;
+- arquitetura da informação;
+- fluxo principal de navegação;
+- wireframes;
+- prototipação de telas;
+- identidade visual;
+- documentação do case;
+- fundamentos de acessibilidade e usabilidade.
+
+O projeto **ainda não é uma aplicação funcional**.
 
 ---
 
 ## 🎯 Problema
 
-A rotina materna pode envolver:
+A organização da rotina pode se tornar difícil quando diferentes responsabilidades precisam ser administradas ao mesmo tempo.
 
-- sobrecarga mental;
-- grande quantidade de tarefas;
-- dificuldade para definir prioridades;
-- compromissos distribuídos em diferentes lugares;
-- falta de tempo para o autocuidado;
-- sensação constante de tarefas acumuladas;
-- dificuldade para visualizar o que já foi concluído.
+Entre os problemas considerados durante a concepção do projeto estão:
 
-Ferramentas muito complexas podem aumentar essa sensação de sobrecarga em vez de ajudar.
+- sobrecarga de tarefas;
+- dificuldade para estabelecer prioridades;
+- compromissos distribuídos ao longo do dia;
+- pouco espaço reservado para autocuidado;
+- sensação de tarefas acumuladas;
+- dificuldade para acompanhar o que já foi realizado;
+- excesso de informações em ferramentas de organização mais complexas.
+
+A proposta do Mãe Leve é reduzir essa complexidade por meio de uma experiência mais simples e previsível.
 
 ---
 
 ## 💡 Solução proposta
 
-O Mãe Leve Planner propõe uma experiência simples e acolhedora para:
+O Mãe Leve Planner propõe centralizar a organização da rotina em uma experiência mobile.
 
-- organizar tarefas diárias;
-- separar atividades por período;
-- acompanhar o progresso da rotina;
-- visualizar prioridades;
-- registrar momentos de autocuidado;
-- reduzir a carga cognitiva;
-- oferecer feedback visual;
-- concentrar a organização em um único ambiente.
+A solução conceitual permite:
+
+- visualizar o dia;
+- organizar tarefas;
+- separar atividades por períodos;
+- identificar prioridades;
+- acompanhar o progresso das atividades;
+- visualizar a rotina;
+- reservar momentos de autocuidado;
+- receber feedback visual das tarefas concluídas;
+- acessar as principais informações em um único ambiente.
+
+As funcionalidades descritas representam o **conceito do produto e seu protótipo**, não funcionalidades implementadas em software.
 
 ---
 
 ## 👩 Público-alvo
 
-O projeto foi pensado principalmente para:
+O produto foi pensado principalmente para:
 
-- mães com rotina intensa;
-- mulheres que administram diferentes responsabilidades;
-- pessoas que procuram uma organização simples;
+- mães que administram diferentes responsabilidades durante o dia;
+- mulheres que buscam organizar tarefas e compromissos;
+- pessoas que preferem ferramentas de organização simples;
 - usuárias que desejam equilibrar produtividade e autocuidado;
-- pessoas que preferem uma interface acolhedora e intuitiva.
+- pessoas que valorizam uma interface visualmente leve e intuitiva.
 
 ---
 
 ## 🧠 Processo de design
 
-O desenvolvimento do case envolveu:
+O desenvolvimento do case passou pelas seguintes etapas:
 
-1. definição do problema;
-2. identificação do público-alvo;
-3. levantamento das necessidades;
+1. identificação do problema;
+2. definição do público-alvo;
+3. levantamento das necessidades do produto;
 4. organização da arquitetura da informação;
-5. definição do fluxo do usuário;
-6. criação de wireframes;
-7. desenvolvimento do protótipo navegável;
-8. definição da identidade visual;
-9. aplicação de fundamentos de acessibilidade;
+5. definição do fluxo de navegação;
+6. criação dos wireframes;
+7. desenvolvimento das telas;
+8. definição da linguagem visual;
+9. aplicação de fundamentos de usabilidade e acessibilidade;
 10. documentação do projeto.
+
+Esse processo permitiu partir do problema antes de definir a interface.
 
 ---
 
@@ -90,6 +117,7 @@ A experiência foi organizada nas seguintes áreas:
 
 ```text
 Mãe Leve Planner
+│
 ├── Boas-vindas
 ├── Dashboard
 ├── Tarefas
@@ -98,224 +126,285 @@ Mãe Leve Planner
 └── Perfil
 ```
 
-Essa estrutura procura facilitar a localização das informações e evitar uma navegação excessivamente complexa.
+A estrutura busca reduzir a complexidade da navegação e facilitar o acesso às principais funções do produto.
 
 ---
 
 ## 🔄 Fluxo principal
 
+O fluxo principal concebido para a experiência é:
+
 ```text
 Entrada
-↓
+   ↓
 Boas-vindas
-↓
+   ↓
 Dashboard
-↓
+   ↓
 Consulta da rotina
-↓
+   ↓
 Organização das tarefas
-↓
+   ↓
 Acompanhamento do progresso
-↓
-Registro de autocuidado
-↓
+   ↓
+Autocuidado
+   ↓
 Perfil
 ```
+
+O Dashboard funciona como ponto central da experiência.
 
 ---
 
 ## ✨ Funcionalidades propostas
 
-- Dashboard com visão geral do dia
-- Checklist de tarefas
-- Organização por manhã, tarde e noite
-- Identificação de prioridades
-- Acompanhamento de progresso
-- Área dedicada ao autocuidado
-- Feedback visual das atividades concluídas
-- Organização da rotina
-- Perfil da pessoa usuária
-- Navegação mobile simples
+No protótipo, foram consideradas as seguintes funcionalidades:
 
-> As funcionalidades representam a proposta do protótipo e não uma aplicação publicada em produção.
+- Dashboard com visão geral do dia;
+- lista de tarefas;
+- organização das atividades por manhã, tarde e noite;
+- identificação de prioridades;
+- acompanhamento do progresso;
+- área dedicada à rotina;
+- área dedicada ao autocuidado;
+- feedback visual para atividades concluídas;
+- perfil da pessoa usuária;
+- navegação pensada para dispositivos móveis.
+
+> Estas são funcionalidades propostas no design do produto. Elas ainda não representam funcionalidades implementadas em uma aplicação.
 
 ---
 
 ## 🎨 Decisões de UX/UI
 
-### Interface acolhedora
+### Interface visualmente leve
 
-A linguagem visual foi pensada para transmitir tranquilidade e acolhimento.
+A linguagem visual foi pensada para transmitir organização, tranquilidade e acolhimento.
 
 ### Organização por períodos
 
-As tarefas são divididas entre manhã, tarde e noite para facilitar a compreensão da rotina.
+A divisão entre manhã, tarde e noite busca facilitar a leitura das atividades ao longo do dia.
 
 ### Redução da carga cognitiva
 
-A interface apresenta as informações de maneira gradual e evita o excesso de elementos em uma única tela.
+As informações são distribuídas entre diferentes áreas da aplicação para evitar concentração excessiva de elementos em uma única tela.
 
 ### Hierarquia visual
 
-Títulos, tarefas, progresso e ações recebem diferentes níveis de destaque.
+Títulos, tarefas, indicadores de progresso e ações possuem diferentes níveis de destaque.
 
 ### Feedback de progresso
 
-A conclusão das atividades é comunicada visualmente para ajudar a usuária a perceber sua evolução.
+A conclusão das atividades é representada visualmente para facilitar a percepção do que já foi realizado.
 
 ### Autocuidado integrado
 
-O autocuidado faz parte da organização da rotina e não aparece como uma atividade isolada ou secundária.
+O autocuidado faz parte da estrutura do produto e é apresentado junto à organização da rotina.
 
 ---
 
-## ♿ Acessibilidade
+## ♿ Acessibilidade e usabilidade
 
-O projeto considera fundamentos de acessibilidade, como:
+Durante a prototipação foram considerados fundamentos como:
 
-- textos legíveis;
+- legibilidade dos textos;
 - contraste entre conteúdo e fundo;
-- navegação consistente;
-- linguagem simples;
-- botões com áreas de interação adequadas;
-- uso combinado de ícones e textos;
-- informações que não dependem somente de cores;
-- feedback visual para ações;
-- organização previsível das telas.
+- consistência de navegação;
+- organização previsível das telas;
+- áreas de interação identificáveis;
+- combinação de texto e elementos visuais;
+- hierarquia das informações;
+- feedback visual das ações;
+- redução de excesso de informações.
+
+O projeto ainda não passou por uma auditoria formal de acessibilidade.
 
 ---
 
 ## 📐 Wireframes
 
-### Visão geral
+O repositório contém wireframes utilizados para estruturar a experiência antes do refinamento visual.
 
-![Visão geral dos wireframes](assets/wireframes/maeleve-wireframe-visao-geral-01.png)
+Entre os materiais documentados estão:
 
-### Fluxo do usuário
+- visão geral dos wireframes;
+- fluxo do usuário;
+- tela de boas-vindas;
+- Dashboard;
+- tarefas;
+- autocuidado;
+- perfil;
+- visão geral das telas.
 
-![Fluxo do usuário](assets/wireframes/maeleve-wireframe-fluxo-usuario.png)
-
-### Estrutura das telas
-
-![Estrutura das telas](assets/wireframes/maeleve-wireframe-todas-telas.png)
-
-### Dashboard
-
-![Wireframe do Dashboard](assets/wireframes/maeleve-wireframe-tela-dashboard.png)
-
-### Tarefas
-
-![Wireframe da área de tarefas](assets/wireframes/maeleve-wireframe-tela-tarefas.png)
-
-### Autocuidado
-
-![Wireframe da área de autocuidado](assets/wireframes/maeleve-wireframe-tela-autocuidado.png)
-
-### Perfil
-
-![Wireframe da área de perfil](assets/wireframes/maeleve-wireframe-tela-perfil.png)
+Os wireframes registram a etapa de organização da estrutura e navegação do produto.
 
 ---
 
-## 📱 Telas do protótipo
+## 📱 Telas do projeto
 
-### Capa
+O repositório também contém telas desenvolvidas para representar visualmente a proposta do Mãe Leve Planner.
 
-![Capa do Mãe Leve Planner](images/mae-leve-capa.png)
+Foram trabalhadas telas como:
 
-### Dashboard
+- capa;
+- login;
+- Dashboard;
+- tarefas;
+- rotina;
+- autocuidado;
+- perfil.
 
-![Dashboard do Mãe Leve Planner](images/mae-leve-dashboard.png)
-
-### Tarefas
-
-![Tela de tarefas](images/mae-leve-tarefas.png)
-
-### Rotina
-
-![Tela de rotina](images/mae-leve-rotina.png)
-
-### Autocuidado
-
-![Tela de autocuidado](images/mae-leve-autocuidado.png)
-
----
-
-## 🔗 Acessar o projeto
-
-### Protótipo navegável
-
-[Visualizar o protótipo do Mãe Leve Planner](https://maeleveplanner.figma.site)
-
-### Wireframes
-
-[Visualizar os wireframes do Mãe Leve Planner](https://wireframemaeleveplanner.figma.site)
+Essas telas representam o conceito visual do produto e não uma aplicação mobile implementada.
 
 ---
 
 ## 🛠️ Ferramentas e práticas
 
-- Figma
-- UX/UI Design
-- Arquitetura da informação
-- Wireframes
-- Prototipação
-- Design de interface
-- Mobile First
-- Fundamentos de acessibilidade
-- Documentação de produto
+Neste estágio do projeto foram trabalhados:
+
+- UX/UI Design;
+- arquitetura da informação;
+- fluxo do usuário;
+- wireframes;
+- prototipação;
+- design de interface;
+- abordagem mobile-first;
+- fundamentos de acessibilidade;
+- fundamentos de usabilidade;
+- documentação de produto.
 
 ---
 
 ## 📚 Aprendizados
 
-Durante o desenvolvimento deste projeto, foram praticados:
+O desenvolvimento do Mãe Leve Planner permitiu praticar:
 
-- identificação de um problema real;
-- definição do público-alvo;
+- análise de um problema;
+- definição de público-alvo;
+- transformação de necessidades em funcionalidades propostas;
 - organização da arquitetura da informação;
-- construção do fluxo do usuário;
+- construção de fluxos;
 - criação de wireframes;
 - prototipação de interfaces mobile;
 - hierarquia visual;
-- experiência emocional;
 - redução de carga cognitiva;
 - organização de tarefas;
-- fundamentos de usabilidade;
+- fundamentos de experiência do usuário;
 - fundamentos de acessibilidade;
-- documentação de um case de UX/UI.
+- documentação de um case de produto digital.
 
 ---
 
-## 🚧 Limites do projeto
+## 🚧 Limitações atuais
 
-O Mãe Leve Planner é um estudo de UX/UI e, atualmente:
+O Mãe Leve Planner encontra-se atualmente na fase de **produto, UX/UI e prototipação**.
 
-- não possui frontend implementado;
-- não possui backend;
-- não utiliza banco de dados;
-- não possui autenticação real;
-- não envia notificações;
-- não sincroniza tarefas;
-- não está publicado como aplicativo;
-- representa uma proposta navegável criada no Figma.
+Por isso, nesta versão:
 
-Essas informações deixam clara a diferença entre o protótipo e uma aplicação funcional.
+- não existe frontend funcional;
+- não existe backend;
+- não existe API;
+- não existe banco de dados;
+- não existe autenticação real;
+- não existe persistência de dados;
+- não existem notificações funcionais;
+- não existe sincronização de tarefas;
+- não existem testes automatizados de software;
+- não existe aplicativo publicado nas lojas;
+- as telas representam um protótipo do produto.
+
+Esta separação é importante para distinguir o que foi **projetado** do que já foi **implementado em software**.
 
 ---
 
-## 🔮 Possíveis evoluções
+# 🚀 Evolução do Mãe Leve
 
-- Realizar testes de usabilidade
-- Refinar o design system
-- Criar uma versão de alta fidelidade
-- Desenvolver o frontend
-- Implementar autenticação
-- Criar uma API para tarefas e rotinas
-- Adicionar persistência de dados
-- Implementar lembretes e notificações
-- Permitir personalização da rotina
-- Publicar uma versão mobile funcional
+O projeto pode evoluir de um case de UX/UI para um projeto mais completo de **Engenharia de Software**.
+
+A evolução será realizada por etapas, conforme meus estudos e o desenvolvimento do produto avançarem.
+
+```text
+Problema e conceito
+        ↓
+UX/UI e prototipação
+        ↓
+Requisitos do sistema
+        ↓
+Modelagem de dados
+        ↓
+Arquitetura da aplicação
+        ↓
+Backend e API
+        ↓
+Aplicação mobile
+        ↓
+Testes
+        ↓
+Automações e integrações
+        ↓
+Inteligência Artificial, quando houver uma necessidade real
+        ↓
+Publicação e evolução do produto
+```
+
+### ✅ Etapa atual — Produto e UX/UI
+
+- [x] Definição do problema
+- [x] Definição do público-alvo
+- [x] Arquitetura da informação
+- [x] Fluxo principal
+- [x] Wireframes
+- [x] Prototipação das telas
+- [x] Documentação inicial
+
+### ⏳ Próximas etapas
+
+- [ ] Revisar e documentar requisitos funcionais
+- [ ] Documentar requisitos não funcionais
+- [ ] Definir regras de negócio
+- [ ] Modelar as principais entidades do sistema
+- [ ] Criar modelo de dados
+- [ ] Definir arquitetura técnica
+- [ ] Definir stack de implementação
+- [ ] Implementar backend/API
+- [ ] Implementar persistência de dados
+- [ ] Desenvolver aplicação mobile funcional
+- [ ] Implementar autenticação, caso necessária
+- [ ] Criar testes
+- [ ] Avaliar lembretes e notificações
+- [ ] Realizar testes de usabilidade
+- [ ] Avaliar automações e integrações
+- [ ] Avaliar aplicações de IA que resolvam necessidades reais do produto
+
+> A presença de um item neste roadmap representa uma possibilidade ou etapa planejada e não significa que a funcionalidade já esteja implementada.
+
+---
+
+## 🤖 Automação e IA no futuro
+
+Automação e Inteligência Artificial **não serão adicionadas apenas para aumentar a quantidade de tecnologias do projeto**.
+
+Caso sejam incorporadas, deverão resolver necessidades específicas identificadas durante a evolução do produto.
+
+Possibilidades poderão ser avaliadas futuramente, por exemplo:
+
+- apoio à organização da rotina;
+- categorização de atividades;
+- sugestões baseadas nas informações fornecidas pela própria usuária;
+- automação de tarefas repetitivas;
+- geração de lembretes ou organização contextual.
+
+Essas possibilidades ainda fazem parte da **exploração futura** e não estão implementadas na versão atual.
+
+---
+
+## 📌 Status do projeto
+
+**Fase atual:** UX/UI e prototipação  
+**Implementação de software:** ainda não iniciada  
+**Objetivo futuro:** evolução progressiva como projeto de Engenharia de Software
+
+O repositório será atualizado conforme novas etapas forem realmente desenvolvidas.
 
 ---
 
@@ -323,18 +412,12 @@ Essas informações deixam clara a diferença entre o protótipo e uma aplicaç�
 
 **Josely Silva Lima**
 
-Estudante do 2º semestre de Engenharia de Software  
-Desenvolvedora Backend e Full Stack em formação  
-Fundadora da Luara Digital
+Estudante de Engenharia de Software, desenvolvendo conhecimentos em programação, banco de dados, backend, automação e inteligência artificial.
 
-[![GitHub](https://img.shields.io/badge/GitHub-2A1835?style=for-the-badge&logo=github&logoColor=F4B8E4)](https://github.com/joselysilva-dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-7C5CFC?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joselysilvadev)
-[![E-mail](https://img.shields.io/badge/E--mail-D65DB1?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joselysilvadev@gmail.com)
+O Mãe Leve Planner faz parte do meu portfólio de estudos e será utilizado para registrar a evolução de um produto desde a concepção e prototipação até etapas posteriores de Engenharia de Software.
 
----
+### 📫 Contato
 
-<div align="center">
+**LinkedIn:** [linkedin.com/in/joselysilvadev](https://www.linkedin.com/in/joselysilvadev)
 
-Projeto desenvolvido para estudo e evolução em experiência do usuário.
-
-</div>
+**E-mail:** [joselysilva.dev@gmail.com](mailto:joselysilva.dev@gmail.com)
