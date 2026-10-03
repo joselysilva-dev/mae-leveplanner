@@ -4,7 +4,7 @@
 
 O **Mãe Leve Planner** é um projeto conceitual de produto digital criado para explorar como tecnologia e experiência do usuário podem contribuir para a organização da rotina materna.
 
-O projeto atualmente está na fase de **UX/UI e prototipação**, com definição do problema, organização da experiência, fluxo de navegação, wireframes e telas do produto.
+O projeto está atualmente na fase de **UX/UI e prototipação**, com definição do problema, organização da experiência, fluxo de navegação, wireframes e telas do produto.
 
 A proposta futura é evoluir o case progressivamente, aplicando conhecimentos de **Engenharia de Software** até chegar a uma aplicação funcional.
 
@@ -20,13 +20,13 @@ O projeto busca trabalhar dois aspectos em conjunto:
 
 **organização da rotina + cuidado pessoal.**
 
-Em vez de tratar autocuidado como uma área separada da vida cotidiana, a proposta é incorporá-lo à própria organização da rotina.
+Em vez de tratar o autocuidado como uma área separada da vida cotidiana, a proposta é incorporá-lo à própria organização da rotina.
 
 ### Status atual
 
 🟢 **Case de UX/UI e prototipação desenvolvido**
 
-Atualmente o projeto possui:
+Atualmente, o projeto possui:
 
 - definição do problema;
 - definição do público-alvo;
@@ -38,7 +38,7 @@ Atualmente o projeto possui:
 - documentação do case;
 - fundamentos de acessibilidade e usabilidade.
 
-O projeto **ainda não é uma aplicação funcional**.
+> O projeto ainda não é uma aplicação funcional.
 
 ---
 
@@ -76,7 +76,7 @@ A solução conceitual permite:
 - receber feedback visual das tarefas concluídas;
 - acessar as principais informações em um único ambiente.
 
-As funcionalidades descritas representam o **conceito do produto e seu protótipo**, não funcionalidades implementadas em software.
+> As funcionalidades descritas representam o conceito do produto e seu protótipo. Elas ainda não representam funcionalidades implementadas em software.
 
 ---
 
@@ -107,7 +107,7 @@ O desenvolvimento do case passou pelas seguintes etapas:
 9. aplicação de fundamentos de usabilidade e acessibilidade;
 10. documentação do projeto.
 
-Esse processo permitiu partir do problema antes de definir a interface.
+Esse processo permitiu partir do problema e das necessidades identificadas antes de definir a interface.
 
 ---
 
@@ -126,7 +126,7 @@ Mãe Leve Planner
 └── Perfil
 ```
 
-A estrutura busca reduzir a complexidade da navegação e facilitar o acesso às principais funções do produto.
+Essa estrutura busca reduzir a complexidade da navegação e facilitar o acesso às principais áreas do produto.
 
 ---
 
@@ -152,7 +152,7 @@ Autocuidado
 Perfil
 ```
 
-O Dashboard funciona como ponto central da experiência.
+O **Dashboard** funciona como ponto central da experiência.
 
 ---
 
@@ -215,9 +215,9 @@ Durante a prototipação foram considerados fundamentos como:
 - combinação de texto e elementos visuais;
 - hierarquia das informações;
 - feedback visual das ações;
-- redução de excesso de informações.
+- redução do excesso de informações.
 
-O projeto ainda não passou por uma auditoria formal de acessibilidade.
+> O projeto ainda não passou por uma auditoria formal de acessibilidade.
 
 ---
 
@@ -236,7 +236,7 @@ Entre os materiais documentados estão:
 - perfil;
 - visão geral das telas.
 
-Os wireframes registram a etapa de organização da estrutura e navegação do produto.
+Os wireframes registram a etapa de organização da estrutura e da navegação do produto.
 
 ---
 
@@ -347,7 +347,7 @@ Inteligência Artificial, quando houver uma necessidade real
 Publicação e evolução do produto
 ```
 
-### ✅ Etapa atual — Produto e UX/UI
+## ✅ Etapa atual — Produto e UX/UI
 
 - [x] Definição do problema
 - [x] Definição do público-alvo
@@ -357,42 +357,43 @@ Publicação e evolução do produto
 - [x] Prototipação das telas
 - [x] Documentação inicial
 
-### ⏳ Próximas etapas
+## ⏳ Próximas etapas
 
 - [ ] Revisar e documentar requisitos funcionais
 - [ ] Documentar requisitos não funcionais
 - [ ] Definir regras de negócio
 - [ ] Modelar as principais entidades do sistema
-- [ ] Criar modelo de dados
-- [ ] Definir arquitetura técnica
-- [ ] Definir stack de implementação
+- [ ] Criar o modelo de dados
+- [ ] Definir a arquitetura técnica
+- [ ] Definir a stack de implementação
 - [ ] Implementar backend/API
 - [ ] Implementar persistência de dados
 - [ ] Desenvolver aplicação mobile funcional
 - [ ] Implementar autenticação, caso necessária
-- [ ] Criar testes
+- [ ] Criar testes automatizados
 - [ ] Avaliar lembretes e notificações
 - [ ] Realizar testes de usabilidade
 - [ ] Avaliar automações e integrações
 - [ ] Avaliar aplicações de IA que resolvam necessidades reais do produto
 
-> A presença de um item neste roadmap representa uma possibilidade ou etapa planejada e não significa que a funcionalidade já esteja implementada.
+> A presença de um item neste roadmap representa uma etapa planejada ou uma possibilidade de evolução. Não significa que a funcionalidade já esteja implementada.
 
 ---
 
 ## 🤖 Automação e IA no futuro
 
-Automação e Inteligência Artificial **não serão adicionadas apenas para aumentar a quantidade de tecnologias do projeto**.
+Automação e Inteligência Artificial **não serão adicionadas apenas para aumentar a quantidade de tecnologias utilizadas no projeto**.
 
-Caso sejam incorporadas, deverão resolver necessidades específicas identificadas durante a evolução do produto.
+Caso sejam incorporadas, deverão atender a necessidades específicas identificadas durante a evolução do produto.
 
-Possibilidades poderão ser avaliadas futuramente, por exemplo:
+Algumas possibilidades que poderão ser avaliadas futuramente incluem:
 
 - apoio à organização da rotina;
 - categorização de atividades;
 - sugestões baseadas nas informações fornecidas pela própria usuária;
 - automação de tarefas repetitivas;
-- geração de lembretes ou organização contextual.
+- geração de lembretes;
+- organização contextual das atividades.
 
 Essas possibilidades ainda fazem parte da **exploração futura** e não estão implementadas na versão atual.
 
@@ -414,7 +415,7 @@ O repositório será atualizado conforme novas etapas forem realmente desenvolvi
 
 Estudante de Engenharia de Software, desenvolvendo conhecimentos em programação, banco de dados, backend, automação e inteligência artificial.
 
-O Mãe Leve Planner faz parte do meu portfólio de estudos e será utilizado para registrar a evolução de um produto desde a concepção e prototipação até etapas posteriores de Engenharia de Software.
+O Mãe Leve Planner faz parte do meu portfólio de estudos e será utilizado para registrar a evolução de um produto desde sua concepção e prototipação até etapas posteriores de Engenharia de Software.
 
 ### 📫 Contato
 
